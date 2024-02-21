@@ -3,6 +3,7 @@ import './css/style.css'
 import { Inter } from 'next/font/google'
 import {Metadata} from "next";
 import {siteConfig} from "./site";
+import { Analytics } from '@vercel/analytics/react';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -54,6 +55,7 @@ export default function RootLayout({
       <body className={`${inter.variable} font-inter antialiased bg-gray-950 text-slate-100 tracking-tight`}>
         <div className="flex flex-col min-h-screen overflow-hidden">
           {children}
+          <Analytics />
         </div>
       </body>
     </html>
