@@ -13,6 +13,11 @@ import Client06 from '@/public/images/client-06.svg'
 import Client07 from '@/public/images/client-07.svg'
 import Client08 from '@/public/images/client-08.svg'
 import Client09 from '@/public/images/client-09.svg'
+import Hotmart from '@/public/images/hotmart-42.svg'
+import Monetizze from '@/public/images/monetizze-logo.svg'
+import Kiwify from '@/public/images/kiwify.svg'
+import Braip from '@/public/images/braip.svg'
+import Ticto from '@/public/images/ticto.svg'
 
 // Import Swiper
 import Swiper, { Autoplay } from 'swiper'
@@ -57,19 +62,19 @@ export default function Clients() {
                   <Image src={Client01} alt="Client 01" width={110} height={21} />
                 </div>
                 <div className="swiper-slide !w-auto">
-                  <Image src={Client02} alt="Client 02" width={70} height={25} />
+                  <Image src={Hotmart} alt="Client 02" width={110} height={21} />
                 </div>
                 <div className="swiper-slide !w-auto">
-                  <Image className="mt-1" src={Client03} alt="Client 03" width={107} height={33} />
+                  <Image className="mt-1" src={Monetizze} alt="Client 03" width={110} height={33} />
                 </div>
                 <div className="swiper-slide !w-auto">
-                  <Image src={Client04} alt="Client 04" width={85} height={36} />
+                  <Image src={Kiwify} alt="Client 04" width={110} height={36} />
                 </div>
                 <div className="swiper-slide !w-auto">
-                  <Image src={Client05} alt="Client 05" width={86} height={18} />
+                  <Image src={Braip} alt="Client 05" width={86} height={18} />
                 </div>
                 <div className="swiper-slide !w-auto">
-                  <Image src={Client06} alt="Client 06" width={78} height={34} />
+                  <Image src={Ticto} alt="Client 06" width={78} height={34} />
                 </div>
                 <div className="swiper-slide !w-auto">
                   <Image src={Client07} alt="Client 07" width={83} height={23} />

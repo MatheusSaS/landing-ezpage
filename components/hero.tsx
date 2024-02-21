@@ -51,7 +51,8 @@ export default function Hero() {
                   <div className="w-full h-full max-w-sm mx-auto lg:mx-0 opacity-30 blur-lg bg-gradient-to-r from-white via-white to-white"></div>
                 </div>
                 <a
-                  href="#"
+                  target="_blank"
+                  href="https://wa.me//5517997123536?text=Quero%20uma%20Landingpage%20de%20alta%20conversão%20para%20o%20meu%20infoproduto"
                   title=""
                   className="relative z-10 btn text-gray-950 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group font-semibold p-4 text-lg"
                   role="button"

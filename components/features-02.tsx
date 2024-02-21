@@ -4,7 +4,7 @@ import Highlighter, { HighlighterItem } from "./highlighter";
 
 import Copywriting from "@/public/images/copywriting.svg";
 import TraficMenagment from "@/public/images/traficmenagment.svg";
-import FeatureImg03 from "@/public/images/feature-image-03.png";
+import PlanningMeetings from "@/public/images/planning-meetings.svg";
 import SvgHappy from "@/public/images/svgHappy.svg";
 
 export default function Features02() {
@@ -133,7 +133,8 @@ export default function Features02() {
                         <div>
                           <a
                             className="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none"
-                            href="#0"
+                            target="_blank"
+                            href="https://wa.me//5517997123536?text=Quero%20uma%20Landingpage%20de%20alta%20conversão%20para%20o%20meu%20infoproduto"
                           >
                             <span className="relative inline-flex items-center">
                               Quero uma landing page de alta conversão
@@ -312,7 +313,8 @@ export default function Features02() {
                         <div>
                           <a
                             className="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none"
-                            href="#0"
+                            target="_blank"
+                            href="https://wa.me//5517997123536?text=Quero%20uma%20Landingpage%20de%20alta%20conversão%20para%20o%20meu%20infoproduto"
                           >
                             <span className="relative inline-flex items-center">
                               Quero saber mais
@@ -324,7 +326,7 @@ export default function Features02() {
                       <div className="relative w-full h-64 md:h-auto overflow-hidden">
                         <Image
                           className="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:relative md:left-0{md}transla{}-x-0"
-                          src={SvgHappy}
+                          src={PlanningMeetings}
                           width="504"
                           height="400"
                           alt="Feature 01"

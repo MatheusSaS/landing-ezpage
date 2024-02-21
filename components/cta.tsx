@@ -43,12 +43,18 @@ export default function Cta() {
               Não perca mais tempo
             </h2>
             <p className="text-lg text-slate-400 mb-8">
-            Pronto para impulsionar seu sucesso online? Clique no botão abaixo para agendar sua cotação exclusiva de landing pages otimizadas para altas conversões. Descubra como nossas estratégias de Copywriting, Conteúdo Estratégico, Tráfego Pago e Marketing Digital podem transformar sua presença na web e alavancar seus resultados!
+              Pronto para impulsionar seu sucesso online? Clique no botão abaixo
+              para agendar sua cotação exclusiva de landing pages otimizadas
+              para altas conversões. Descubra como nossas estratégias de
+              Copywriting, Conteúdo Estratégico, Tráfego Pago e Marketing
+              Digital podem transformar sua presença na web e alavancar seus
+              resultados!
             </p>
             <div>
               <a
                 className="relative z-10 btn text-gray-950 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white  transition duration-150 ease-in-out group font-semibold p-4 text-lg"
-                href="#0"
+                target="_blank"
+                href="https://wa.me//5517997123536?text=Quero%20uma%20Landingpage%20de%20alta%20conversão%20para%20o%20meu%20infoproduto"
               >
                 Realizar cotação
               </a>
