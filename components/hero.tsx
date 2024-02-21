@@ -32,7 +32,7 @@ export default function Hero() {
               className="h1 bg-clip-text text-transparent bg-gradient-to-r from-white/60 via-white to-white/60 pb-4"
               data-aos="fade-down"
             >
-              Está perdendo oportunidades de vendas dos seus produtos digitais por não contar com uma Landing Page otimizada para impulsionar suas conversões ao máximo?
+              Não perca mais vendas! Uma Landing Page otimizada é o segredo para conquistar mais clientes e aumentar seus lucros
             </h1>
             <p
               className="text-lg text-white mb-8"
