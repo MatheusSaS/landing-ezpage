@@ -14,7 +14,7 @@ export default function SignIn() {
         { /* Logo */}
         <AuthLogo />
         { /* Page title */}
-        <h1 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">Sign in to your account</h1>
+        <h1 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-white/60 via-white to-white/60">Sign in to your account</h1>
       </div>
 
       { /* Form */}

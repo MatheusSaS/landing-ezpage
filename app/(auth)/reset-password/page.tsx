@@ -13,7 +13,7 @@ export default function ResetPassword() {
         { /* Logo */}
         <AuthLogo />
         { /* Page title */}
-        <h1 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">Reset your password</h1>
+        <h1 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-white/60 via-white to-white/60">Reset your password</h1>
       </div>
 
       { /* Form */}
